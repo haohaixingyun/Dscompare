@@ -1,0 +1,3 @@
+INFO 2015-11-09 15:35:56: Splitting DS file C:\workplacebus\DSCompare\compare\ds\c_atf.dsx ...
+SEVERE 2015-11-09 15:35:56: Completed failed!
+SEVERE 2015-11-09 15:35:56: String index out of range: -19
